@@ -1,4 +1,4 @@
-# PRODIGY_ML_01
+# ML_01
 ## Used Linear Regression model  to predict house prices using dataset from kaggle 
 ### Description
 This task implemented a **Linear Regression model** to prdict house prices based on features such as square footage, number of bedrooms, and number of bathrooms.
